@@ -3,15 +3,16 @@
 
  
  body {
-    background-color: black;
+    background-color: rgb(243, 208, 208);
     font-family:"Orbitron", sans-serif;
     display: flex;
     justify-content: center;
     align-content: center;
+    border-top:150px solid rgb(243, 208, 208)   ;
  }
 
  .clock {
-    color: rgb(28, 209, 28);
+    color: grey;
     font-size: 100px;
     letter-spacing: 5px;    
  }
